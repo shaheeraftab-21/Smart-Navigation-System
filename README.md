@@ -11,9 +11,9 @@ A route planner for Lahore, with a C++ console app and an interactive web map, t
 
 ![Web](https://img.shields.io/badge/web-HTML%20%7C%20CSS%20%7C%20JS-0b6e69)
 
-**[▶ Live demo: lahore-route-planner.vercel.app](https://lahore-route-planner.vercel.app)**
+**[▶ Live demo: smart-navigation-system-shaheer.vercel.app](https://smart-navigation-system-shaheer.vercel.app)**
 
-<img src="docs/web.png" alt="Web route planner showing the fastest route from DHA to Canal Road on a schematic Lahore map" width="820"/>
+<img src="docs/web.jpg" alt="Web route planner showing the fastest route from DHA to Canal Road on a schematic Lahore map" width="820"/>
 
 </div>
 
